@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<Products>
+    <product>
+        <code>001</code>
+        <name>VIVO Y20G</name>
+        <description>Vivo Y20G mobile was launched on 19th January 2021. The phone comes with a 6.51-inch touchscreen display offering a resolution of 720x1600 pixels and an aspect ratio of 20:9. Vivo Y20G is powered by an octa-core MediaTek Helio G80 processor. It comes with 4GB, 6GB of RAM. The Vivo Y20G runs Android 11 and is powered by a 5000mAh battery. The Vivo Y20G supports proprietary fast charging.</description>
+        <price>14,990</price>
+    </product>
+    <product>
+        <code>002</code>
+        <name>REDMI NOTE 11</name>
+        <description>Redmi Note 11 mobile was launched on 26th January 2022. The phone comes with a 90 Hz refresh rate 6.43-inch touchscreen display offering a resolution of 1080x2400 pixels at a pixel density of 409 pixels per inch (ppi) and an aspect ratio of 20:9. Redmi Note 11 is powered by an octa-core Qualcomm Snapdragon 680 processor. It comes with 4GB, 6GB of RAM. The Redmi Note 11 runs Android 11 and is powered by a 5000mAh battery. The Redmi Note 11 supports proprietary fast charging.</description>
+        <price>12,049</price>
+    </product>
+    <product>
+        <code>003</code>
+        <name>REALME NOTE 7</name>
+        <description>The Realme 5 is among the first set of Realme phones to pack in four cameras at the back, but we'll get into the details of this later on. There's a fingerprint sensor in the middle of the rear, which works well, and there's face recognition too. Just like previous Realme offerings, face recognition is very quick. In low light, the screen compensates for the lack of light so you can unlock your phone even in the dark.</description>
+        <price>9,999</price>
+    </product>
+    <product>
+        <code>004</code>
+        <name>REALME 2</name>
+        <description>The Realme 2 offers stellar battery life, a unique design, a dedicated microSD card slot, and good build quality. However, the sub-standard display, average cameras, and iffy fingerprint sensor prevent it from challenging the likes of the Xiaomi Redmi 5 and Redmi Note 5.</description>
+        <price>7,999</price>
+    </product>
+</Products>
+
